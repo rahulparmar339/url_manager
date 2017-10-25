@@ -1,6 +1,7 @@
                             -----------TO RUN PROJECT-----------
                             --> to run project go inside url_manager run command npm start ( and Thre you GO.....) 
-
+                            --> Followed instalation guide from here link:https://reactjs.org/docs/installation.html
+                            --> Main logic is inside src/app.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
