@@ -1,3 +1,7 @@
+                            -----------TO RUN PROJECT-----------
+                            --> to run project go inside url_manager run command npm start ( and Thre you GO.....) 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
